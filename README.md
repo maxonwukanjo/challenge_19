@@ -1,2 +1,2 @@
 # challenge_19
-![p2.png]
+![screen shot](p2.png)]
